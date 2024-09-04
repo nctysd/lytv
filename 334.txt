@@ -1,4 +1,3 @@
-﻿
 央视频道,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -289,7 +288,6 @@ CCTV1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225996/index.m3u8
 未知,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225998/index.m3u8
 兴平戏曲,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225976/index.m3u8
 长武戏曲,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225984/index.m3u8
-
 商洛本地,#genre#
 商洛,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225666/index.m3u8
 洛南,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225949/index.m3u8
@@ -297,7 +295,7 @@ CCTV1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225996/index.m3u8
 山阳电视台-2,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225951/index.m3u8
 丹凤,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225952/index.m3u8
 商南-1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225953/index.m3u8
-镇安电视台,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225954/index.m3u8
+镇安,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225954/index.m3u8
 镇安,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225876/index.m3u8
 春 晚,#genre#
 1983年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
