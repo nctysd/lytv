@@ -140,13 +140,13 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 陕西卫视,http://111.20.33.70/PLTV/88888893/224/3221225821/index.m3u8
 陕西卫视,http://111.20.33.70/PLTV/88888893/224/3221226246/index.m3u8
 生活,http://111.20.33.70/PLTV/88888893/224/3221226359/index.m3u8
-陕西生活 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225531/index.m3u8
+陕西生活,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225531/index.m3u8
 新闻资讯,http://111.20.33.70/PLTV/88888893/224/3221226357/index.m3u8
 都市青春,http://111.20.33.70/PLTV/88888893/224/3221226358/index.m3u8
 影视,http://111.20.33.70/PLTV/88888893/224/3221226360/index.m3u8
 公共,http://111.20.33.70/PLTV/88888893/224/3221226361/index.m3u8
-陕西影视 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225532/index.m3u8
-陕西新闻资讯 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225639/index.m3u8
+陕西影视,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225532/index.m3u8
+陕西新闻资讯,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225639/index.m3u8
 陕西公共,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225533/index.m3u8
 乐家购物,http://111.20.33.70/PLTV/88888893/224/3221226362/index.m3u8
 体育休闲,http://111.20.33.70/PLTV/88888893/224/3221226363/index.m3u8
@@ -157,32 +157,32 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 洋县电视台-1,http://111.20.33.70/PLTV/88888893/224/3221226938/index.m3u8
 佛坪电视台,http://111.20.33.70/PLTV/88888893/224/3221226454/index.m3u8
 千阳,http://111.20.33.70/PLTV/88888893/224/3221226945/index.m3u8
-宁强-1,http://111.20.33.70/PLTV/88888893/224/3221226390/index.m3u8
-综合-1,http://111.20.33.70/PLTV/88888893/224/3221226385/index.m3u8
-M综合,http://111.20.33.70/PLTV/88888893/224/3221226952/index.m3u8
+宁强1,http://111.20.33.70/PLTV/88888893/224/3221226390/index.m3u8
+综合1,http://111.20.33.70/PLTV/88888893/224/3221226385/index.m3u8
+综合,http://111.20.33.70/PLTV/88888893/224/3221226952/index.m3u8
 宝鸡1HD,http://111.20.33.70/PLTV/88888893/224/3221226383/index.m3u8
 宝鸡2HD,http://111.20.33.70/PLTV/88888893/224/3221226384/index.m3u8
-西安1 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225668/index.m3u8
+西安1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225668/index.m3u8
 西安丝路频道,http://111.20.33.70/PLTV/88888893/224/3221226370/index.m3u8
 西安影视频道,http://111.20.33.70/PLTV/88888893/224/3221226369/index.m3u8
 西安商务资讯,http://111.20.33.70/PLTV/88888893/224/3221226368/index.m3u8
 西安都市频道,http://111.20.33.70/PLTV/88888893/224/3221226367/index.m3u8
 西安新闻综合,http://111.20.33.70/PLTV/88888893/224/3221226366/index.m3u8
-临潼影视 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225967/index.m3u8
-临潼综合 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225966/index.m3u8
-丹凤 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225952/index.m3u8
-乾县 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225977/index.m3u8
-佛坪 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225947/index.m3u8
-佳县1 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225890/index.m3u8
-兴平2 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225976/index.m3u8
-凤县 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225868/index.m3u8
-凤翔文化影视 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225930/index.m3u8
-凤翔综合 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225929/index.m3u8
-勉县经济 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225946/index.m3u8
-勉县综合 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225880/index.m3u8
-千阳 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225937/index.m3u8
-西安教育 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226037/index.m3u8
-三原1 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225973/index.m3u8
+临潼影视,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225967/index.m3u8
+临潼综合,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225966/index.m3u8
+丹凤,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225952/index.m3u8
+乾县,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225977/index.m3u8
+佛坪,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225947/index.m3u8
+佳县1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225890/index.m3u8
+兴平2,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225976/index.m3u8
+凤县,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225868/index.m3u8
+凤翔文化影视,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225930/index.m3u8
+凤翔综合,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225929/index.m3u8
+勉县经济,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225946/index.m3u8
+勉县综合,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225880/index.m3u8
+千阳,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225937/index.m3u8
+西安教育,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226037/index.m3u8
+三原1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225973/index.m3u8
 91,http://111.20.33.70/PLTV/88888893/224/3221226377/index.m3u8
 ETV西安教育电视台,http://111.20.33.70/PLTV/88888893/224/3221226371/index.m3u8
 NZTV-1http://111.20.33.70/PLTV/88888893/224/3221226955/index.m3u8
@@ -319,7 +319,7 @@ CCTV1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225996/index.m3u8
 山阳,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225950/index.m3u8
 山阳电视台-2,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225951/index.m3u8
 丹凤,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225952/index.m3u8
-商南-1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225953/index.m3u8
+商南1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225953/index.m3u8
 镇安,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225954/index.m3u8
 镇安,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225876/index.m3u8
 央视,#genre#
