@@ -292,7 +292,7 @@ CCTV1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225996/index.m3u8
 兴平戏曲,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225976/index.m3u8
 长武戏曲,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225984/index.m3u8
 商洛本地,#genre#
-商洛-1,http://111.20.33.70/PLTV/88888893/224/3221226378/index.m3u8
+商洛,http://111.20.33.70/PLTV/88888893/224/3221226378/index.m3u8
 商洛,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225666/index.m3u8
 洛南,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225949/index.m3u8
 山阳,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225950/index.m3u8
