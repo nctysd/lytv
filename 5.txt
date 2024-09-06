@@ -18,3 +18,12 @@
 电影_洪金宝,http://cfss.cc/cdn/hy/11279251.flv
 电影_梁家辉,http://cfss.cc/cdn/hy/11342429.flv
 电影_黄渤,http://cfss.cc/cdn/hy/11352876.flv
+电影_许冠英,http://cfss.cc/cdn/hy/11601972.flv
+电影_刘德华,http://cfss.cc/cdn/hy/11342424.flv
+电影_斯坦森,http://cfss.cc/cdn/hy/21059588.flv
+电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
+电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
+电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
+电影_黑帮片,http://cfss.cc/cdn/hy/11336719.flv
+电影_丧尸片,http://cfss.cc/cdn/hy/21059578.flv
+电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
