@@ -8,3 +8,12 @@
 电影_怪兽,http://cfss.cc/cdn/hy/21059577.flv
 电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
 电影_玄幻,http://cfss.cc/cdn/hy/11342414.flv
+电影_谍战,http://cfss.cc/cdn/hy/21059585.flv
+电影_战争,http://cfss.cc/cdn/hy/21059592.flv
+电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
+电影_港片,http://cfss.cc/cdn/hy/11602043.flv
+电影_国产,http://cfss.cc/cdn/hy/11352973.flv
+电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
+电影_李连杰,http://cfss.cc/cdn/hy/11342390.flv
+电影_洪金宝,http://cfss.cc/cdn/hy/11279251.flv
+电影_梁家辉,http://cfss.cc/cdn/hy/11342429.flv
