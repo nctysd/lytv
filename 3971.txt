@@ -358,5 +358,3 @@ TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 电影_谍战,http://cfss.cc/cdn/hy/21059585.flv
 电影_战争,http://cfss.cc/cdn/hy/21059592.flv
 电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
-电影_港片,http://cfss.cc/cdn/hy/11602043.flv
-电影_国产,http://cfss.cc/cdn/hy/11352973.flv
