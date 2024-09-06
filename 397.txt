@@ -344,17 +344,6 @@ TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 电影_战争片,http://cfss.cc/cdn/hy/21059574.flv
 电影_犯罪片,http://cfss.cc/cdn/hy/11352974.flv
 电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
-电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
-电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
-电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
-电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
-电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
-电影_蘑菇影厅,http://cfss.cc/cdn/hy/11601981.flv
-电影_搞笑恐怖,http://cfss.cc/cdn/hy/11601960.flv
-电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
-电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
-电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
-搞笑_陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
 春晚,#genre#
 春晚83,http://txmov2.a.kwimgs.com/bs3/videohls/5207287136834522947_hlshd15.m3u8
 春晚86,https://txmov2.a.kwimgs.com/bs3/videohls/5231493982164619599_hlshd15.m3u8
