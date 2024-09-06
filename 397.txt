@@ -1,4 +1,4 @@
-﻿央视频道,#genre#
+央视频道,#genre#
 CCTV1综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV4中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
@@ -347,14 +347,6 @@ TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
 电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
 电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
-电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
-电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
-电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
-电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
-电影_古墓系列,http://cfss.cc/cdn/hy/11352913.flv
-电影_嫣然影厅,http://cfss.cc/cdn/hy/11601977.flv
-电影_女神系列,http://cfss.cc/cdn/hy/11336571.flv
-电影_经典女神,http://cfss.cc/cdn/hy/11352909.flv
 电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
 电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
 电影_蘑菇影厅,http://cfss.cc/cdn/hy/11601981.flv
