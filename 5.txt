@@ -31,4 +31,3 @@
 电影_战争片,http://cfss.cc/cdn/hy/21059574.flv
 电影_犯罪片,http://cfss.cc/cdn/hy/11352974.flv
 电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
-电影_高分动作,http://cfss.cc/cdn/hy/11352884.flv
